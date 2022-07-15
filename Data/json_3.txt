@@ -1,0 +1,1203 @@
+
+    data3 = [
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1515944204127645701",
+            "text": "@bertinha84 @TheBridge_Tech Mucha suerte en la nueva aventura.\n\n¡No olvides compartir tu camino y tus experiencias! \n\nSeguro que son de utilidad para la comunidad.\n\n💪",
+            "created_at": "2022-04-18T06:43:57.000Z",
+            "author_id": "147003255"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 5,
+                "like_count": 6,
+                "quote_count": 1
+            },
+            "id": "1515933948001632256",
+            "text": "Hoy empiezo en un ratito mi camino en el Ux/ui de la mano de @TheBridge_Tech en su bootcamp. Tengo un nudo enorme en el estómago y todas las ganas de aprender. A por todas voy!",
+            "created_at": "2022-04-18T06:03:12.000Z",
+            "author_id": "604485175"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "id": "1514204427019767808",
+            "text": "@manufosela @4GeeksAcademyES @CodenotchMAD @socratech_ @TheBridge_Tech @ITAcademy @nebulova_es 🏁 Felicidades a todos lxs participantes y mención especial a esa selección de programadores/as que va a tener la oportunidad de \"mejorar su conducción\" gracias a esta iniciativa de @kairos_ds \n🙏🏻 Darte/daros las gracias por apostar siempre por el #TalentoJunior y la #Diversidad.",
+            "created_at": "2022-04-13T11:30:42.000Z",
+            "author_id": "761153947990097920"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1513867656180477953",
+            "text": "@manufosela @Adalab_Digital @4GeeksAcademyES @socratech_ @TheBridge_Tech @ITAcademy @nebulova_es Muy orgullosos de nuestros Top Notch Coders🚀\nMucho ánimo a esa 6ª #GeneracionK  de \n@kairos_ds con todo lo nuevo👏",
+            "created_at": "2022-04-12T13:12:30.000Z",
+            "author_id": "1026530062923968513"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 3,
+                "like_count": 12,
+                "quote_count": 0
+            },
+            "id": "1513848281801056258",
+            "text": "De los 21, hay 7 desarrolladoras de @Adalab_Digital, 4 de @4GeeksAcademyES, 2 de @CodenotchMAD, 1 de @socratech_ , 1 de @TheBridge_Tech, 1 de @ITAcademy, 1 de @nebulova_es y de FP-DAW y autodidactas.",
+            "created_at": "2022-04-12T11:55:30.000Z",
+            "author_id": "1609031"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 6,
+                "quote_count": 0
+            },
+            "id": "1512007299187027971",
+            "text": "Nos han contado que en @TheBridge_Tech se lo curran mucho... Hemos colado algún que otro BURN, ¿os viene bien una ayudita de energía? 🔋🔥",
+            "created_at": "2022-04-07T10:00:06.000Z",
+            "author_id": "227327854"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1511633207061630980",
+            "text": "@TheBridge_Tech ¡A vuestra disposición! ¡Muchas gracias!",
+            "created_at": "2022-04-06T09:13:36.000Z",
+            "author_id": "127000294"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "id": "1511329612260950019",
+            "text": "@assemblerinstit @TheBridge_Tech @CraftCodeTech @CodeHouseLearn @CodenotchMAD @NeolandStudio @Adalab_Digital @IEuniversity @lemoncoders @codeworks @geeks_academy @penascalf5 Hola. Lo tenemos en formato Json en Git. https://t.co/x2dnE2VFAB Podéis hacer un PR ;)",
+            "created_at": "2022-04-05T13:07:13.000Z",
+            "author_id": "41110484"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1511328611755827200",
+            "text": "@raulcotrina @TheBridge_Tech @CraftCodeTech @CodeHouseLearn @CodenotchMAD @NeolandStudio @Adalab_Digital @IEuniversity @lemoncoders @codeworks @geeks_academy @penascalf5 Muy buenas Raúl, nos parece una idea increíble. ¿Me dices donde te pasamos la información de los cursos que tenemos actualmente?",
+            "created_at": "2022-04-05T13:03:14.000Z",
+            "author_id": "1102950803843751936"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 2,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1511247995794251786",
+            "text": "CC @TheBridge_Tech @CraftCodeTech @CodeHouseLearn @CodenotchMAD @NeolandStudio @assemblerinstit @Adalab_Digital @IEuniversity @lemoncoders @codeworks @geeks_academy @penascalf5",
+            "created_at": "2022-04-05T07:42:54.000Z",
+            "author_id": "41110484"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "id": "1509126320386715655",
+            "text": "Hemos colaborado con @TheBridge_Tech aportando el proyecto final de los alumnos para el Desafío de Tripulaciones y premiando a los 3 grupos con una donación para la ONG de su elección. Increíbles resultados en tiempo récord🤩 #apoyamoseltalentotech https://t.co/vJ5HdV6gSN https://t.co/LpSUpFtdfp",
+            "created_at": "2022-03-30T11:12:07.000Z",
+            "author_id": "1402182570314539009"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 8,
+                "quote_count": 1
+            },
+            "id": "1509101924699803650",
+            "text": "Seguimos con la 2mesa #ForoVocentoEducación: Formación para el futuro y las nuevas profesionales que vienen. Participan:\n▪️ @JuanJoseJuarez @FBertelsmann\n▪️ @mortizcotro @FundCreate\n▪️ Iker Arce @TheBridge_Tech\n▪️ Gabriel Masfurroll @UABBarcelona\n🔴DIRECTO https://t.co/8xxFlqVpCP https://t.co/3qAkFVQ9bs",
+            "created_at": "2022-03-30T09:35:11.000Z",
+            "author_id": "1197839987867373568"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 1,
+                "like_count": 7,
+                "quote_count": 0
+            },
+            "id": "1509100185493950470",
+            "text": "Nuestro Partner @asanjoseperez modera el segundo coloquio sobre la importancia de la formación para el futuro y las nuevas profesiones. Expertos de la @UABBarcelona, @e_bertelsmann, @FundCreate, @TheBridge_Tech dan su visión sobre la formación profesional #ForoVocentoEducación https://t.co/mPMT0mlkWU",
+            "created_at": "2022-03-30T09:28:16.000Z",
+            "author_id": "491498207"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "id": "1508843117000249345",
+            "text": "2�?FORMACIÓN PARA EL FUTURO Y LAS NUEVAS PROFESIONES QUE VIENEN\n▪️ @JuanJoseJuarez (@FBertelsmann)\n▪️ @mortizcotro (@FundCreate)\n▪️ Iker Arce (@TheBridge_Tech)\n▪️ Gabriel Masfurroll (@UABBarcelona)\nModera: Antonio San José (@asanjoseperez) (@KreabEspana) \n#ForoVocentoEducación https://t.co/kMY2q5gEZE",
+            "created_at": "2022-03-29T16:26:46.000Z",
+            "author_id": "1197839987867373568"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 6,
+                "quote_count": 0
+            },
+            "id": "1507711509467734019",
+            "text": "Jaime, estoy seguro de que en @TheBridge_Tech , la aceleradora de talento digital líder en nuestro país, estarían encantados de ayudarte en la organización de ese Hackhaton. Al menos yo lo estoy 😉 https://t.co/60ybQN84qk",
+            "created_at": "2022-03-26T13:30:10.000Z",
+            "author_id": "41545659"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 4,
+                "reply_count": 0,
+                "like_count": 7,
+                "quote_count": 0
+            },
+            "id": "1507059034146361344",
+            "text": "La @camaradesevilla organiza junto al Grupo Planeta y su presidente José Lara, este encuentro con las empresas #ClubCámara para recoger las necesidades del #SectorTecnológico y presentar nuestra oferta de #Bootcamps de la mano de @TheBridge_Tech https://t.co/rJkWd5MKT8 https://t.co/J6SHTHXylM",
+            "created_at": "2022-03-24T18:17:28.000Z",
+            "author_id": "163586106"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1504525515247472649",
+            "text": "🎉 Congrats to @simplilearn, @TheBridge_Tech, @thinkful, and @udacity who made it on our list of the 14 Best Digital Marketing Bootcamps of 2022! https://t.co/tgUf4qX2DX https://t.co/MIhFTrM9lA",
+            "created_at": "2022-03-17T18:30:10.000Z",
+            "author_id": "1941897590"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "id": "1504380116792664064",
+            "text": "En 2021, las instituciones que forman profesionales digitales con modelos de Bootcamp prepararon a más personas que el 94% de las universidades españolas @Adalab_Digital @TheBridge_Tech @ironhack https://t.co/zyzeLrNdLo",
+            "created_at": "2022-03-17T08:52:24.000Z",
+            "author_id": "209496112"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "id": "1503808574987935757",
+            "text": "🔐 We've combed through student &amp; alumni reviews to find the 17 Best Cyber Security Bootcamps of 2022, including @Level_Effect, @nexgent, @simplilearn, @Springboard, and @TheBridge_Tech! \nhttps://t.co/t9VCetS80T https://t.co/uhS3m8KSBT",
+            "created_at": "2022-03-15T19:01:18.000Z",
+            "author_id": "1941897590"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1503513313648463877",
+            "text": "@PICKYUAN @TheBridge_Tech @PagePersonnel Yo por experiencia te diría que busques otra escuela. Cuando las cosas funcionan bien todo muy bonito ahora cuando no�?no hacen nada y te dicen que esto es lo que hay 😅🤦‍♂�?,
+            "created_at": "2022-03-14T23:28:02.000Z",
+            "author_id": "295720842"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "id": "1503409219789328384",
+            "text": "¡Muy contentos por todos ellos! 100% empleabilidad en la promoción de junio. Gracias desde @TheBridge_Tech por confiar y ponerlo todo tan fácil ¡Felicidades! #fullstackdevelopers #datascientists #digitalmarketers #uxuidesigners #cybersecurityanalysts 🎯💼 https://t.co/R0eGi9QXv5",
+            "created_at": "2022-03-14T16:34:24.000Z",
+            "author_id": "1162694149956603904"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1501530641610989581",
+            "text": "¡El #bootcamp de #Ciberseguridad de @TheBridge_Tech vuelve a estar entre los mejores bootcamps del mundo! Y este año también nos estrenamos con el de #DigitalMarketingOps que entra por primera vez en la lista de #CourseReport! Una súper noticia👏👏¡Gracias a todos! #bestbootcamps https://t.co/3xShvybDST",
+            "created_at": "2022-03-09T12:09:36.000Z",
+            "author_id": "1162694149956603904"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 13,
+                "quote_count": 0
+            },
+            "id": "1500124541137428490",
+            "text": "Día para agradecer a @TheBridge_Tech y @Glovo_ES la oportunidad que han dado a estos dos cracks para formarse con @codeorg en programación por bloques en un curso de 48 horas de duración.\nBravo 🙌 \n🔝🦸🏻‍♂️🦸🏻‍♀️🏭🇪�?https://t.co/ZTCrroHQTc",
+            "created_at": "2022-03-05T15:02:16.000Z",
+            "author_id": "363153431"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1499397980704546831",
+            "text": "[Opinión] Por más mujeres líderes en tecnología https://t.co/FqVeFL1ljq https://t.co/SFOFIEv1Uo @TheBridge_Tech https://t.co/kBo9xGdGrU",
+            "created_at": "2022-03-03T14:55:10.000Z",
+            "author_id": "742380996688023552"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1499397820410851332",
+            "text": "[Opinión] Por más mujeres líderes en tecnología - https://t.co/FqVeFL1ljq @TheBridge_Tech https://t.co/TE5sXsBaAT",
+            "created_at": "2022-03-03T14:54:32.000Z",
+            "author_id": "742380996688023552"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1499088433293185033",
+            "text": "@TheBridge_Tech @PagePersonnel Mi hijo y yo nos apuntamos con muchos días de antelación\nHoy a las 7 nos conectamos y aparece el mensaje \"Enlace caducado\": no nos hemos podido conectar\nEs una pena que, además de tener que recurrir a lo on-line, con la frialdad que supone, ocurran estos fallos técnicos\nMuy mal",
+            "created_at": "2022-03-02T18:25:08.000Z",
+            "author_id": "414032513"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1498249085337444355",
+            "text": "Toma contacto con el #marketingdigital de la mano de @TheBridge_Tech. Aprende a usar el contenido, el email, las redes sociales y la publicidad digital en este taller impartido por @jpereznavarrete📝\n\n📅Jueves 3 de marzo, 18-19h (online)\n\n#EventoDeLaSemana  #masterclass #MyNews",
+            "created_at": "2022-02-28T10:49:52.000Z",
+            "author_id": "91372157"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 1
+            },
+            "id": "1497198545333624832",
+            "text": "Nuestro PMO @vicencf da una clase a los alumnos de @TheBridge_Tech  en nuestras instalaciones 🚀\n\n#bigdata #data #education https://t.co/jiskmovU0m",
+            "created_at": "2022-02-25T13:15:24.000Z",
+            "author_id": "763323065199628288"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 1
+            },
+            "id": "1496865773582696449",
+            "text": "Hace unos días, nuestras compañeras Inés Bdiri y Alba Calvo estuvieron en la Aceleradora de Talento digital @TheBridge_Tech para contar a sus alumnos las \"best practices\" en la búsqueda de empleo y ¡fue un éxito! 👏\n\n¡Gracias a todos los asistentes!🙌 https://t.co/JLvRI7z6Ti",
+            "created_at": "2022-02-24T15:13:05.000Z",
+            "author_id": "198936952"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 6,
+                "quote_count": 0
+            },
+            "id": "1496571973979234311",
+            "text": "@EduvigisOrtiz @TheBridge_Tech @rdiazmoles @dankominsky @juliapereav @AnaAyerbe @EvusRoman @maicaag @SGarBecares @peritecno @Maitenas @Women4Cyber @iagorguezgarcia @tima_soni @unicc_ict Seguimos haciendo equipo!!!",
+            "created_at": "2022-02-23T19:45:38.000Z",
+            "author_id": "308530390"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 6,
+                "quote_count": 0
+            },
+            "id": "1496021941483802630",
+            "text": "📢¡Última semana!\nAún puedes solicitar una de las becas que otorgamos junto a @IndraCompany para la realización de un #bootcamp de Desarrollo Web Full-stack en @TheBridge_Tech 💻\n\n💻10 #becas dirigidas a personas con #discapacidad con formaciones #STEM 📲 https://t.co/ubL3Gyg3Gl https://t.co/yHUvz4zCXG",
+            "created_at": "2022-02-22T07:20:00.000Z",
+            "author_id": "589903453"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1495055146769915908",
+            "text": "Yo he caído en el bootcamp de Data science de @TheBridge_Tech en madrid. Si valor agregado consiste en presionarte para que aprendas por tu cuenta. Si no aprendes es tú culpa porque su método es muy sólido. Aunque se queje el 50% de la clase. https://t.co/g892EydfYy",
+            "created_at": "2022-02-19T15:18:18.000Z",
+            "author_id": "295720842"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 0,
+                "like_count": 8,
+                "quote_count": 0
+            },
+            "id": "1494627201794428930",
+            "text": "¿Aún no has solicitado tu beca para el #bootcamp de Desarrollo Web Full-stack en @TheBridge_Tech? Si tienes #discapacidad y una formación universitaria #STEM puedes recibir una de las 10 becas de @IndraCompany y @FUniversia 📲¡Inscríbete ya! https://t.co/wYjp06QE9c https://t.co/bLDY1DVOKa",
+            "created_at": "2022-02-18T10:57:48.000Z",
+            "author_id": "73355170"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 9,
+                "reply_count": 1,
+                "like_count": 13,
+                "quote_count": 0
+            },
+            "id": "1493902011242274825",
+            "text": "Muy #agradecida del gran #trabajo en #equipo para lanzar nuestro #W4C #mentoring #cybersecurity @TheBridge_Tech @rdiazmoles @marobserva @dankominsky @juliapereav @AnaAyerbe @EvusRoman @maicaag @SGarBecares @peritecno @Maitenas @Women4Cyber @iagorguezgarcia @tima_soni @unicc_ict https://t.co/KNdkUEp3sf",
+            "created_at": "2022-02-16T10:56:09.000Z",
+            "author_id": "2819387949"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 8,
+                "quote_count": 0
+            },
+            "id": "1493639257587601413",
+            "text": "Presentando nuestra 2ª edición del Programa de Mentoring de forma presencial en @TheBridge_Tech. Encantadas con la asistencia y el apoyo de nuestros mentores y mentees 🙂🙂 Muchas gracias!! #womenincyber #W4C https://t.co/JcPYHB5Aze",
+            "created_at": "2022-02-15T17:32:04.000Z",
+            "author_id": "1319233294198857728"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1492946377290178564",
+            "text": "@peritecno @jcgalindo_ @Women4Cyber_SP @TheBridge_Tech @bbva @sanitas @unicc_ict @EduvigisOrtiz @tima_soni Qué pena no poder asistir de manera presencial y poder conocer al resto de mentores y mentees",
+            "created_at": "2022-02-13T19:38:48.000Z",
+            "author_id": "1319221643634495489"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 4,
+                "reply_count": 1,
+                "like_count": 7,
+                "quote_count": 0
+            },
+            "id": "1492927405413089281",
+            "text": "@peritecno colabora en el evento 🔝\"Inicio Programa #Mentoring 2022\" del 📅 15 de febrero a las 18:15 h organizado por @Women4Cyber_SP, en modalidad mixta: 🙋‍♀️‍en @TheBridge_Tech y 💻en LinkedIn Live\n➕info: https://t.co/UL9tbO30fC\n#periciatecnologica #JuntosSomosMas #PETEC https://t.co/r2m28EFIdq",
+            "created_at": "2022-02-13T18:23:25.000Z",
+            "author_id": "981508377942659073"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "id": "1492557029046632448",
+            "text": "@uxbs_podcast El bootcamp de @TheBridge_Tech",
+            "created_at": "2022-02-12T17:51:40.000Z",
+            "author_id": "1488306026025783301"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 1
+            },
+            "id": "1490999359579643909",
+            "text": "¡Feliz martes porque podemos anunciar que los Proptech Thursdays aterrizan en Madrid el 3 de marzo! 🎉Hemos creado estos eventos mensuales con la colaboración de @apicatalunya  y @TheBridge_Tech  y podéis reservar vuestras entradas en este enlace: https://t.co/cHFFfDUA9Z",
+            "created_at": "2022-02-08T10:42:03.000Z",
+            "author_id": "1402182570314539009"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "id": "1490973768667512835",
+            "text": "Aún puedes solicitar una de las becas que otorgamos junto a @IndraCompany para la realización de un #bootcamp de Desarrollo Web Full-stack en @TheBridge_Tech 💻\n\nSon 10 #becas dirigidas a personas con #discapacidad con formaciones #STEM 📲 https://t.co/ubL3GyycUt https://t.co/KAzkvXPFkY",
+            "created_at": "2022-02-08T09:00:22.000Z",
+            "author_id": "589903453"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1490430578633674756",
+            "text": "Muchas ganas de hablar este martes con alumnos de @TheBridge_Tech acerca de como hacemos #DataScience #MachineLearning en Decathlon\nhttps://t.co/asAw5W6uht https://t.co/4HOtEnbx7P",
+            "created_at": "2022-02-06T21:01:55.000Z",
+            "author_id": "124512688"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1489249806249644040",
+            "text": "Automatización y el Covid-19 en el horizonte del nuevo trabajador https://t.co/aA3d4D199h #TalentoProfesional #TheBridge #Automatizacion @thebridge_tech",
+            "created_at": "2022-02-03T14:49:57.000Z",
+            "author_id": "720372640192405504"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1488552725113618439",
+            "text": "🔥 ¡Impulsa tu carrera profesional con los nuevos #BootCamps de la @encamarasevilla!\n\n✅Participa en el #OpenDay de los Bootcamps🚀 de Data Science y Desarrollo Web Full Stack con @TheBridge_Tech.\n\nMás información en ⤵\n\nhttps://t.co/CspTlfsJR8 https://t.co/ModB2H17pc",
+            "created_at": "2022-02-01T16:40:00.000Z",
+            "author_id": "106344840"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 6,
+                "quote_count": 0
+            },
+            "id": "1488167222979801095",
+            "text": "Aún puedes solicitar una de las becas que otorgamos junto a @FUniversia para la realización de un #bootcamp de Desarrollo Web Full-stack en @TheBridge_Tech 💻\nSon 10 #becas dirigidas a personas con #discapacidad con formaciones #STEM 📲 https://t.co/wYjp06QE9c https://t.co/OYCENTaRMr",
+            "created_at": "2022-01-31T15:08:09.000Z",
+            "author_id": "73355170"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1486618465909854214",
+            "text": "@kenia913 @_JorgeSLL_ @ChemaCorbacho @InesSainzOf @CHANCE_es @TheBridge_Tech No es así. Hay una carrera universitaria llamada Ciencia de Datos y también postgrados, pero lo que ha hecho ella es un curso de 15 semanas que no require tener estudios previos, el único requisito haber cumplido 18 años�?15 semanas de curso y se autodefine como “Científica�?🤦🏻‍♀�?,
+            "created_at": "2022-01-27T08:33:56.000Z",
+            "author_id": "1961523644"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1486398530243735553",
+            "text": "👏 @FUniversia, @IndraCompany y @TheBridge_Tech ponen en marcha programa de formación tecnológica gratuita para personas con discapacidad.\n\nLee más aquí 👉 https://t.co/8S1QiTK66I https://t.co/I2gFpUMUnG",
+            "created_at": "2022-01-26T18:00:00.000Z",
+            "author_id": "1025174114535923712"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1485946677194371074",
+            "text": "📰@UniversiaES, @IndraCompany i @TheBridge_Tech signen un acord per a engegar un programa de #beques dirigit a persones amb discapacitat que compten amb estudis #STEM, als quals donaran accés a un bootcamp d'aprenentatge en Desenvolupament Web Full-stack\n\nhttps://t.co/dd3G8smkNU https://t.co/kwtYcCiyBV",
+            "created_at": "2022-01-25T12:04:30.000Z",
+            "author_id": "479678741"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1485598878917439491",
+            "text": "@TheBridge_Tech @ikerarceseco Hola Iker, quisiera poder comunicarme contigo, sobre Digital Reskiling y otros hola@randallsolano.com",
+            "created_at": "2022-01-24T13:02:28.000Z",
+            "author_id": "53319655"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 8,
+                "quote_count": 0
+            },
+            "id": "1484480904030523394",
+            "text": "Junto con @IndraCompany lanzamos 10 becas destinadas a la realización de un #bootcamp de Desarrollo Web Full-stack en @TheBridge_Tech 💻\nEstas becas están dirigidas a personas con #discapacidad que cuenten con formaciones #STEM \n📅Hasta el 28/02\n📲 https://t.co/ubL3GyxF4V https://t.co/UP09YF3eb9",
+            "created_at": "2022-01-21T11:00:02.000Z",
+            "author_id": "589903453"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "id": "1484471502586138629",
+            "text": "Junto a @FUniversia otorgamos 10 becas destinadas a la realización de un #bootcamp de Desarrollo Web Full-stack en @TheBridge_Tech \n💻 Estas becas están dirigidas a personas con #discapacidad con formaciones #STEM  \n📅Hasta el 28/02 https://t.co/wYjp06QE9c https://t.co/qb8rHZOxtG https://t.co/uIIWUf5IZH",
+            "created_at": "2022-01-21T10:22:41.000Z",
+            "author_id": "73355170"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1484462596065574914",
+            "text": "Hoy tenemos reto de tripulaciones @TheBridge_Tech Un día muy especial para todos! Enhorabuena a todos los alumnos que se gradúan hoy. https://t.co/f0nCFK8asz",
+            "created_at": "2022-01-21T09:47:17.000Z",
+            "author_id": "12085582"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "id": "1484117172494475265",
+            "text": "Nuevo evento🤩\"La Inteligencia Artificial y la Ley: lo que hay y lo que viene\" a cargo de @rayadvd\n\n📆25 de enero en @TheBridge_Tech\n\n¡Saca ya tus entradas!🎟️https://t.co/EG7QBigIgJ\n\n#ResponsibleAI #AILaw #Compliance @nodosenlared \n@josepcurto",
+            "created_at": "2022-01-20T10:54:42.000Z",
+            "author_id": "1162694149956603904"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1483836824279818241",
+            "text": "El claustro de #DataScience de @TheBridge_Tech ha creado este \"escalofriante\" vídeo haciendo uso de Inteligencia Artificial con motivo del tema del #DesafíodeTripulaciones sobre la protección de las marcas ¡Alumnos y famosos se mezclan en este ejercicio de #deepface! #IA 🤯 https://t.co/3Eg8WYfV2p",
+            "created_at": "2022-01-19T16:20:41.000Z",
+            "author_id": "1162694149956603904"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1483469787078533123",
+            "text": "Del periodismo al marketing digital 🤸 esta es la historia de Blanca Gómez y su experiencia cursando el #bootcamp de #DigitalMarketingOps en @TheBridge_Tech ¡Dale al �? \n\n#digitaltalent #aceleratucarrera https://t.co/sU5Ogt3xGn",
+            "created_at": "2022-01-18T16:02:13.000Z",
+            "author_id": "1162694149956603904"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 6,
+                "quote_count": 0
+            },
+            "id": "1481340966866989063",
+            "text": "Ciclo de Conferencias sobre Inteligencia Artificial Responsable curso 21-22:\n\"La Inteligencia Artificial y la Ley: lo que hay y lo que viene\" a cargo de @rayadvd \nEl 25 de enero, en @TheBridge_Tech info: https://t.co/Zyvxg8uLb0 #ResponsibleAI #AILaw #Compliance | Cc @josepcurto https://t.co/ZqomfcYZ8j",
+            "created_at": "2022-01-12T19:03:03.000Z",
+            "author_id": "41545659"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1480228635294449667",
+            "text": "Me encantaría saber que les enseñan sobre estadística en el super curso de data science de @TheBridge_Tech",
+            "created_at": "2022-01-09T17:23:02.000Z",
+            "author_id": "183583012"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "id": "1479787660910768132",
+            "text": "@cbusquets Hola, @TheBridge_Tech te da la opción de pagar una vez consigues trabajo. @uxerschool también te da opciones de pago. En mi opinión son los dos top de Madrid",
+            "created_at": "2022-01-08T12:10:46.000Z",
+            "author_id": "10045342"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "id": "1478637395289378817",
+            "text": "¿Quieres formarte en una de las profesiones que más futuro tienen en la actualidad?\nAcuerdo entre @camaradesevilla y @TheBridge_Tech \nhttps://t.co/RyKjNHm0AE\n#pymes #autonómos #emprendedores #Sevilla\n#Actualidad #Noticias #NoticiasHoy",
+            "created_at": "2022-01-05T08:00:01.000Z",
+            "author_id": "966573471663828992"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1474662951588093953",
+            "text": "¡ @TheBridge_Tech os desea #FelizNavidad y #FelicesFiestas! Qué tengáis unas merecidas vacaciones para descansar y disfrutar con la familia 🎅🎄 ¡Cuidaros mucho!\n\n#xmastime #MerryChristmas2021 #thebridge #bootcamps #digitaltalentaccelerator https://t.co/zX1JPhdFbp",
+            "created_at": "2021-12-25T08:47:00.000Z",
+            "author_id": "1162694149956603904"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1473672163571998748",
+            "text": "Próxima parada📍Sevilla ¡Los #bootcamps de @TheBridge_Tech llegan a la ciudad de la mano de @ENCamaraSevilla! El 21 de marzo empezamos con #DataScience y #DesarrolloWebFullStack 🙌 \n\nInfórmate en https://t.co/V8mmlFAlEc\n\n#sevilla #digitaltalent #aceleratucarrera @camaradesevilla https://t.co/6D8GlYkKwX",
+            "created_at": "2021-12-22T15:09:57.000Z",
+            "author_id": "1162694149956603904"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "id": "1473619743454203910",
+            "text": "La @camaradesevilla y @TheBridge_Tech firma un acuerdo para propiciar el aumento de la #empleabilidad y reducir la brecha digital en #Andalucía, a través de #Bootcamps 🚀 especializados que ofrece @ENCamaraSevilla 🔝.\n\nMás información en ⤵️\n\nhttps://t.co/2BhrDKephp https://t.co/B3JdX9J49q",
+            "created_at": "2021-12-22T11:41:40.000Z",
+            "author_id": "106344840"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1470593689554722816",
+            "text": "@TheBridge_Tech Hola, una pregunta. No pude asistir a este evento y me interesa. Me pueden compartir grabación o algún resumen? me interesa mucho porque soy estudiante y esta charla se me hace genial. Aunque sea un resumen que tengan a mano. Pongo foto https://t.co/gQ45CiCI6u",
+            "created_at": "2021-12-14T03:17:12.000Z",
+            "author_id": "1091556904910970880"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1470336227324973057",
+            "text": "☃️Winter is coming... Refúgiate en el conocimiento de la mano de los eventos gratuitos de @TheBridge_Tech 👩‍💻¡Un montón de talleres para aprender y una oportunidad para conocer de cerca lo que hacemos! Inscríbete ya👉https://t.co/33sWyP85sA https://t.co/9KXb8OxuuI",
+            "created_at": "2021-12-13T10:14:08.000Z",
+            "author_id": "1162694149956603904"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1470105937281265664",
+            "text": "@Josune44377694 @InesSainzOf @ChemaCorbacho @CHANCE_es @TheBridge_Tech https://t.co/Nqrv7y9TwV",
+            "created_at": "2021-12-12T18:59:03.000Z",
+            "author_id": "1450097602624729092"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1469936064332713986",
+            "text": "@Good_Mannersss @InesSainzOf @ChemaCorbacho @CHANCE_es @TheBridge_Tech Te ríes tu solo de tu carencia de argumentos? Solo sabéis insultar y menospreciar. Vais a ser muy útiles a la dictadura en ciernes que nos va a tocar vivir",
+            "created_at": "2021-12-12T07:44:02.000Z",
+            "author_id": "1368514256409354240"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "id": "1469287386442080269",
+            "text": "El próximo martes, 14 de diciembre, cerramos el Ciclo de Conferencias sobre #ResponsibleAI en @TheBridge_Tech con \"Drift: pérdida de rendimiento en sistemas de ML\"\nMás info: https://t.co/RXwX3Glnzm \nCrédito imagen: @EvidentlyAI https://t.co/Y77sXjYtvn",
+            "created_at": "2021-12-10T12:46:25.000Z",
+            "author_id": "41545659"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1468702156148678661",
+            "text": "@kike_mep @aevidevs @TheBridge_Tech Yo por la tarde tengo un examen y me voy a perder la presentación de @aevidevs , pero la obligación es la obligación 😭😭😭",
+            "created_at": "2021-12-08T22:00:55.000Z",
+            "author_id": "1269603085"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1468691532358291461",
+            "text": "@kike_mep @TheBridge_Tech Ese juez molón y los jueguitos chulos de las #AyudasAEVI 🔥",
+            "created_at": "2021-12-08T21:18:42.000Z",
+            "author_id": "1436850828632076289"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 6,
+                "quote_count": 0
+            },
+            "id": "1468690517525471232",
+            "text": "Mañana a primera hora tengo que evaluar unos jueguitos de @aevidevs y luego seguir con el trabajo final de mi Bootcamp en @TheBridge_Tech \n\nPor la tarde dentista�?,
+            "created_at": "2021-12-08T21:14:40.000Z",
+            "author_id": "251760098"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "id": "1468490952297918467",
+            "text": "@ChemaCorbacho @InesSainzOf @CHANCE_es @TheBridge_Tech Ni antes, ni después.",
+            "created_at": "2021-12-08T08:01:40.000Z",
+            "author_id": "66646655"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 0,
+                "like_count": 9,
+                "quote_count": 0
+            },
+            "id": "1468134306237321218",
+            "text": "State of European Tech 2021 | \"Talent acquisition tops the list of challenges for founders, alongside fundraising\" https://t.co/odUs5fIN2M Cc: @TheBridge_Tech",
+            "created_at": "2021-12-07T08:24:29.000Z",
+            "author_id": "41545659"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1466835926307549193",
+            "text": "The Bridge (@TheBridge_Tech) y Women4Cyber Spain (@Women4Cyber_SP), por la inclusión de las #mujeres en el mundo de la #ciberseguridad https://t.co/MjCsG2rDEy Un sector que sigue implementando la oferta de #empleo. https://t.co/GqQSRpi6uL",
+            "created_at": "2021-12-03T18:25:11.000Z",
+            "author_id": "430673327"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 4,
+                "reply_count": 0,
+                "like_count": 9,
+                "quote_count": 0
+            },
+            "id": "1466308330763296768",
+            "text": "Genial workshop sobre TDD el realizado por parte de @MercadonaTech ayer, nos lo pasamos genial, aprendimos TDD y todo el mundo acabo contentísimo con las cañas y networking. Muchas gracias a @TheBridge_Tech por cedernos el espacio para realizarlo. https://t.co/QleXn5TKCf",
+            "created_at": "2021-12-02T07:28:43.000Z",
+            "author_id": "1071040664870236160"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1466128967350554624",
+            "text": "Taller in progress 💪🏻💪🏻💪🏻 @MercadonaTech @TheBridge_Tech https://t.co/yzwAcrYb0p",
+            "created_at": "2021-12-01T19:35:59.000Z",
+            "author_id": "1071040664870236160"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1466028966515466247",
+            "text": "Estoy en la charla de @TheBridge_Tech sobre que hacer cuando te has graduado y está siendo muy interesante! La verdad es que me siento identificado con algunos de los ejemplos que están dando 😁",
+            "created_at": "2021-12-01T12:58:37.000Z",
+            "author_id": "1390940493203312643"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1466012018117386241",
+            "text": "@TheBridge_Tech @LegalHackersMAD @crisvillasante @sergiocm Gracias a vosotros, @TheBridge_Tech , por ser tan fantásticos anfitriones. 40 personas en persona y más de 80 online que nos sentimos como en casa!",
+            "created_at": "2021-12-01T11:51:16.000Z",
+            "author_id": "256509265"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1465992140551512070",
+            "text": "Viajamos a Extremadura para participar en la mesa de debate sobre transformación digital y formación de @Forbes_es ¡Un placer poder contar lo que hacemos y mostrar la visión de @ikerarceseco CEO de @TheBridge_Tech ! #ReinventingExtremadura https://t.co/7lOvQoBLZy",
+            "created_at": "2021-12-01T10:32:17.000Z",
+            "author_id": "1162694149956603904"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1465937687047811075",
+            "text": "@TrabajarEuropa Pues no tenía ni idea de quién era, ni de que ha sido miss España. He curioseado un pelín y me he encontrado con esto.\n\nhttps://t.co/0sKJ5J5x8m\n\nNo sé si a @TheBridge_Tech le habrá hecho mucha gracia ver a una exalumna incitando a la no vacunación con análisis erróneos.",
+            "created_at": "2021-12-01T06:55:55.000Z",
+            "author_id": "1047731191"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 7,
+                "quote_count": 0
+            },
+            "id": "1465776018678034439",
+            "text": "@InesSainzOf @ChemaCorbacho @CHANCE_es @TheBridge_Tech El mundo de crear mentiras... Jajajajaja",
+            "created_at": "2021-11-30T20:13:30.000Z",
+            "author_id": "1450097602624729092"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "id": "1465765349060755457",
+            "text": "@jmfcomas @AlexTourino @TheBridge_Tech @LegalHackersMAD @sergiocm Muchas gracias @LegalHackersMAD @derechopractico por organizar este tipo de eventos e invitarme a formar parte de ellos . He disfrutado mucho con @sergiocm , Pedro Méndez de Vigo y David Ruiz !",
+            "created_at": "2021-11-30T19:31:06.000Z",
+            "author_id": "469438623"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1465744181595455497",
+            "text": "@LegalHackersMAD @TheBridge_Tech  @derechopractico https://t.co/acjhX9S4HX",
+            "created_at": "2021-11-30T18:06:59.000Z",
+            "author_id": "1267430665722699776"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 8,
+                "reply_count": 1,
+                "like_count": 14,
+                "quote_count": 0
+            },
+            "id": "1465742916849127425",
+            "text": "En @TheBridge_Tech con los @LegalHackersMAD en charla sobre #NFT con cracks como @crisvillasante , @sergiocm y Pedro Méndez de Vigo https://t.co/NLyZjTGPEx",
+            "created_at": "2021-11-30T18:01:58.000Z",
+            "author_id": "1349674770"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1465734600295133189",
+            "text": "Todo listo para hablar de NTFs en @TheBridge_Tech con @LegalHackersMAD #legalhack",
+            "created_at": "2021-11-30T17:28:55.000Z",
+            "author_id": "1267430665722699776"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "id": "1465662360975294468",
+            "text": "¿Estáis nerviosas/os? Mañana tenemos el taller impartido por @MercadonaTech sobre TDD aplicado al desarrollo de APIs en @TheBridge_Tech. Os pedimos encarecidamente que si no vais a asistir os desapunteis para no dejar a gente fuera por ello 🐍🐍 https://t.co/EZwyYdN6aW",
+            "created_at": "2021-11-30T12:41:52.000Z",
+            "author_id": "1071040664870236160"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 1
+            },
+            "id": "1465653584046039040",
+            "text": "🟢#ReinventingExtremadura\n\n🗣️Iker Arce, CEO de @TheBridge_Tech: \"Las personas son las que toman las riendas de su formación. Y ahora es necesario que las formaciones sean cortas porque todo cambia muy rápido\" \n\nhttps://t.co/u3QpQ6aGpD https://t.co/CuezlXsWg3",
+            "created_at": "2021-11-30T12:06:59.000Z",
+            "author_id": "909998372"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 16,
+                "quote_count": 0
+            },
+            "id": "1465625392518213634",
+            "text": "@InesSainzOf @ChemaCorbacho @CHANCE_es @TheBridge_Tech Y sigue sin tenerlos",
+            "created_at": "2021-11-30T10:14:58.000Z",
+            "author_id": "202634423"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "id": "1465619095022415874",
+            "text": "@sergio_t81 @TheBridge_Tech @TheBridge_Tech está ahí ahí con los cursos de JPelirrojo y las estafas piramidales de Josef Ajram",
+            "created_at": "2021-11-30T09:49:56.000Z",
+            "author_id": "1289124095989252097"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "id": "1465615651444301828",
+            "text": "@sergio_t81 @gemagoldie @TheBridge_Tech Igual lo que no maneja es el paint y por eso no le llega a la columna de al lado... 🤷‍♂�?,
+            "created_at": "2021-11-30T09:36:15.000Z",
+            "author_id": "94044152"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 6,
+                "reply_count": 2,
+                "like_count": 19,
+                "quote_count": 2
+            },
+            "id": "1465611748778598403",
+            "text": "@TheBridge_Tech Esta es la calidad que ofrecéis en vuestros bootcamps? Esta es la formación y la calidad de vuestros “científicos de datos�? https://t.co/a6vuEjTkt0",
+            "created_at": "2021-11-30T09:20:45.000Z",
+            "author_id": "901444616"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 6,
+                "reply_count": 0,
+                "like_count": 11,
+                "quote_count": 1
+            },
+            "id": "1464140666229993475",
+            "text": "🚀 @LegalHackersMAD vuelven a la carga con un meetup sobre tokens no fungibles o NFT 👏👏👏\n\n➡️ https://t.co/tjiHZMSGPg\n\n🗣�?Intervienen @sergiocm , @risvillasante (de @ECIJA ) y #PedroMéndez (de @Cuatrecasas )\n🗓�?Martes, 30, 18h30\n⚙️Colaboran @TheBridge_Tech y @derechopractico https://t.co/INVegDY3tT",
+            "created_at": "2021-11-26T07:55:11.000Z",
+            "author_id": "256509265"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 8,
+                "quote_count": 1
+            },
+            "id": "1463803234137436161",
+            "text": "Y todos estos más por venir: \n@4GeeksAcademyES @lewagonspain @KeepCoding_ @Letscoder_ @CodenotchMAD @uxerschool @TheBridge_Tech @NeolandStudio https://t.co/OlQkUzvyAH",
+            "created_at": "2021-11-25T09:34:21.000Z",
+            "author_id": "1455515154133786625"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1463470583539245060",
+            "text": "@UzumakiLeo_ @IronhackMAD @ironhack @hackaboss_ @TheBridge_Tech @WildCodeSchool @KeepCoding_ @SantanderUni @UniversiaES ¡Buenas! A día de hoy, el Plan Circular solamente está disponible para residentes en España.",
+            "created_at": "2021-11-24T11:32:31.000Z",
+            "author_id": "589903453"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1463086924369825793",
+            "text": "Qué es el Desafío de Tripulaciones�?\"Es un reto en el que agrupamos a todos los bootcamps de @TheBridge_Tech y cada grupo tiene que desarrollar una Web App\", nos cuenta Ramón, alumni de #Data y #Ciber �?Mira el último https://t.co/YStRwgLNJt\n\n#bootcamp #desafiodetripulaciones https://t.co/5F1Id5Amvl",
+            "created_at": "2021-11-23T10:08:00.000Z",
+            "author_id": "1162694149956603904"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 1
+            },
+            "id": "1463081934414925828",
+            "text": "Tenemos un taller super awesome el día 01/12 a las 19:00 que imparte @MercadonaTech en @TheBridge_Tech sobre TDD en APIs con #Django, apuntaos que os quedáis sin plaza 🏃🏽🏃🏾‍♀️🏃🏻🏃‍♀�?https://t.co/h6qAaIKpJO",
+            "created_at": "2021-11-23T09:48:10.000Z",
+            "author_id": "1043222120"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "id": "1462833592015503369",
+            "text": "¡Bienvenidos! #Día0 en Valencia para nuestros alumnos de #DataScience y #FullStack que empiezan con ilusión su camino en @TheBridge_Tech y dispuestos a acelerar su carrera digital ¡Estrenan campus y les recibimos con los brazos abiertos! 🤗 Gracias @uchceu https://t.co/ncXF5RfsSX",
+            "created_at": "2021-11-22T17:21:21.000Z",
+            "author_id": "1162694149956603904"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1461327988897861635",
+            "text": "@diegodl @TheBridge_Tech Un placer compartir con vosotros la forma en la abordamos nuestros desafios con datos e IA . Estais construyendo un gran entorno y vi un montón de talento ! Esperando tener la oportunidad de volver a coincidir",
+            "created_at": "2021-11-18T13:38:37.000Z",
+            "author_id": "124512688"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1461314899645280257",
+            "text": "¡Happy Birthday to @TheBridge_Tech ! Hoy cumplimos 2�?años llenos de historias en los que la motivación y la intensidad nunca ha faltado. Muchos alumnos han cambiado su vida con nosotros, y no sólo a nivel profesional ¡Por muchos más! Gracias 🙌🎊 https://t.co/uSjwX0qIqi",
+            "created_at": "2021-11-18T12:46:36.000Z",
+            "author_id": "1162694149956603904"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "id": "1460949280563384323",
+            "text": "Hoy ha venido a conocernos @antoniolopezg a @TheBridge_Tech. Nos está contando un poco sobre su trabajo. Muchas gracias!! https://t.co/rkzpvrxfWg",
+            "created_at": "2021-11-17T12:33:46.000Z",
+            "author_id": "12085582"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 1
+            },
+            "id": "1460931429311864840",
+            "text": "Feliz #DíaDelEstudiante 🙌 a todos los alumnos de @TheBridge_Tech 🚀\n\n¡El esfuerzo diario que le ponéis os hace grandes!\n\nAquí la próxima cantera de desarrolladores web full stack 💻\n\n#bootcamps #desarrolloweb #uxuidesing #digitalmarketing #ciberseguridad #datascience https://t.co/yrYIOywfRx",
+            "created_at": "2021-11-17T11:22:50.000Z",
+            "author_id": "1162694149956603904"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1460677767465517075",
+            "text": "@MeetupES @TheBridge_Tech Que ganas tengo de que vuelvan los eventos presenciales a la antigua... Vivo de ello, y gano un pastizal, y que me dure, pero eventos por videoconferencia = bullshit :-(",
+            "created_at": "2021-11-16T18:34:52.000Z",
+            "author_id": "270033473"
+        }
+    ]
